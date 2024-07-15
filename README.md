@@ -9,6 +9,7 @@ The code is for educational purposes only. I am not liable for any damages cause
 
 # USAGE
 Make sure that you have installed Lua 5.4, you can download it from the official Lua website. https://www.lua.org
+You can use the steps below or just open download.bat which will download them, but you need to have git installed.
 The following libraries you need to install:
 LuaSocket - https://github.com/lunarmodules/luasocket
 CJSON - https://github.com/mpx/lua-cjson
