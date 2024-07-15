@@ -13,6 +13,8 @@ The following libraries you need to install:
 LuaSocket - https://github.com/lunarmodules/luasocket
 CJSON - https://github.com/mpx/lua-cjson
 
+Read the code for more detailed usage. I have left some comments in it.
+
 The software was made on Ubuntu x64. I am not sure about Windows support. 
 
 # RUNNING THE SOFTWARE
