@@ -42,4 +42,7 @@ if code == 301 then
     end
 end
 
+print("Response Code:", code)
+print("Response Body:", table.concat(response_body))
+
 -- InfernoTsugikuni on GitHub was here
